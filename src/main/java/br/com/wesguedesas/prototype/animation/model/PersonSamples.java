@@ -1,4 +1,4 @@
-package br.com.cod3r.prototype.animation.model;
+package br.com.wesguedesas.prototype.animation.model;
 
 import java.util.HashMap;
 import java.util.Map;

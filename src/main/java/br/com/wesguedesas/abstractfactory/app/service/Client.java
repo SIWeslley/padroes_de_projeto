@@ -1,4 +1,4 @@
-package br.com.cod3r.abstractfactory.app.service;
+package br.com.wesguedesas.abstractfactory.app.service;
 
 public class Client {
 

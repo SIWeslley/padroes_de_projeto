@@ -1,9 +1,9 @@
-package br.com.cod3r.prototype.animation;
+package br.com.wesguedesas.prototype.animation;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import br.com.cod3r.prototype.animation.model.Person;
+import br.com.wesguedesas.prototype.animation.model.Person;
 
 public class Client {
 	private static List<Person> frames = new ArrayList<Person>();

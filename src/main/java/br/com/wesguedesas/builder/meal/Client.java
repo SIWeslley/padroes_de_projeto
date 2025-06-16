@@ -1,4 +1,4 @@
-package br.com.cod3r.builder.meal;
+package br.com.wesguedesas.builder.meal;
 
 public class Client {
 	

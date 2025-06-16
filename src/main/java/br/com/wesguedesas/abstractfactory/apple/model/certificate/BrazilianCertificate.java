@@ -1,4 +1,4 @@
-package br.com.cod3r.abstractfactory.apple.model.certificate;
+package br.com.wesguedesas.abstractfactory.apple.model.certificate;
 
 public class BrazilianCertificate implements Certificate {
 

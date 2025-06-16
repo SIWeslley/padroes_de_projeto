@@ -1,4 +1,4 @@
-package br.com.cod3r.abstractfactory.app.service.services;
+package br.com.wesguedesas.abstractfactory.app.service.services;
 
 public interface UserService {
 	void save(String name);

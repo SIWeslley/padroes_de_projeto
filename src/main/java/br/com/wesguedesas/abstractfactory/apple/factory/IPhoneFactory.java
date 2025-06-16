@@ -1,7 +1,7 @@
-package br.com.cod3r.abstractfactory.apple.factory;
+package br.com.wesguedesas.abstractfactory.apple.factory;
 
-import br.com.cod3r.abstractfactory.apple.factory.abstractFactory.CountryRulesAbstractFactory;
-import br.com.cod3r.abstractfactory.apple.model.iphone.IPhone;
+import br.com.wesguedesas.abstractfactory.apple.factory.abstractFactory.CountryRulesAbstractFactory;
+import br.com.wesguedesas.abstractfactory.apple.model.iphone.IPhone;
 
 public abstract class IPhoneFactory {
 	CountryRulesAbstractFactory rules;

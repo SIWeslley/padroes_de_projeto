@@ -1,4 +1,4 @@
-package br.com.cod3r.abstractfactory.app.service.factory;
+package br.com.wesguedesas.abstractfactory.app.service.factory;
 
 public interface ServicesAbstractFactory {
 

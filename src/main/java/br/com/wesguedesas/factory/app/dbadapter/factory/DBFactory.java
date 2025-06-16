@@ -1,6 +1,6 @@
-package br.com.cod3r.factory.app.dbadapter.factory;
+package br.com.wesguedesas.factory.app.dbadapter.factory;
 
-import br.com.cod3r.factory.app.dbadapter.db.DB;
+import br.com.wesguedesas.factory.app.dbadapter.db.DB;
 
 public interface DBFactory {
 	DB getDatabase();

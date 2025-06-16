@@ -1,7 +1,7 @@
-package br.com.cod3r.prototype.functionalCloneBuilder;
+package br.com.wesguedesas.prototype.functionalCloneBuilder;
 
-import br.com.cod3r.prototype.functionalCloneBuilder.model.Address;
-import br.com.cod3r.prototype.functionalCloneBuilder.model.User;
+import br.com.wesguedesas.prototype.functionalCloneBuilder.model.Address;
+import br.com.wesguedesas.prototype.functionalCloneBuilder.model.User;
 
 public class Client {
 

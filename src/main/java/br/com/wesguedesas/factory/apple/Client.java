@@ -1,4 +1,4 @@
-package br.com.cod3r.factory.apple;
+package br.com.wesguedesas.factory.apple;
 
 public class Client {
 	

@@ -1,4 +1,4 @@
-package br.com.cod3r.prototype.functionalCloneBuilder.model;
+package br.com.wesguedesas.prototype.functionalCloneBuilder.model;
 
 public class Address {
 	private String street;
